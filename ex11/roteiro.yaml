@@ -1,0 +1,13 @@
+# aplicação listagem individuos
+
+roteiro:
+  atenas: |
+    Liste 3 pontos turísticos de Atenas, fornecendo para cada um:
+    - O número anual de visitantes.
+    - Uma breve descrição de cada ponto turístico.
+  
+  roma: |
+    Liste 3 pontos turísticos de Roma, fornecendo para cada um:
+    - O número anual de visitantes.
+    - Uma breve descrição de cada ponto turístico.
+

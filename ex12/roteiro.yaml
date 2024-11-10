@@ -1,0 +1,14 @@
+# aplicação listagem individuos
+
+roteiro:
+  atenas: |
+    Liste 3 pontos turísticos de Atenas nao pode ser forum romano, fornecendo para cada um:
+    - O número anual de visitantes.
+    - Uma breve descrição de cada ponto turístico.
+    - Crie uma lista com as chaves pontos_turisticos: nome,visitantes : numero inteiro não pode ser texto,descrição: breve, local: Atenas. A saída deve ser um objeto JSON sem qualquer outro texto, nao pode ser string
+
+  roma: |
+    Liste 3 pontos turísticos de Roma, fornecendo para cada um:
+    - O número anual de visitantes.
+    - Uma breve descrição de cada ponto turístico.
+    - Crie uma lista com as chaves pontos_turisticos: nome,visitantes : numero inteiro não pode ser texto,descrição: breve, local: Roma. A saída deve ser um objeto JSON sem qualquer outro texto, nao pode ser string
